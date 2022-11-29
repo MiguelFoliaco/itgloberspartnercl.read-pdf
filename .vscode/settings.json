@@ -20,5 +20,10 @@
       "directory": "node",
       "changeProcessCWD": true
     }
-  ]
+  ],
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#1B322C",
+    "titleBar.activeBackground": "#25463D",
+    "titleBar.activeForeground": "#F8FBFB"
+  }
 }

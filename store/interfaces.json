@@ -1,0 +1,6 @@
+{
+  "pdf-reader":{
+    "component": "index",
+    "render": "client"
+  }
+}
