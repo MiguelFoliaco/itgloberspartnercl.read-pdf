@@ -13,7 +13,7 @@ export const PDFReader = ({ height, pdfUrl, width }: props) => {
   useEffect(() => setMounted(true), [])
 
   return (
-    <>
+    <div>
       {
         mounted && (
           <div className='flex justify-center'>
@@ -30,6 +30,6 @@ export const PDFReader = ({ height, pdfUrl, width }: props) => {
           </div>
         )
       }
-    </>
+    </div>
   )
 }
